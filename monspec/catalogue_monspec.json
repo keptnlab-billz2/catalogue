@@ -9,11 +9,11 @@
                     {
                         "context" : "CONTEXTLESS",
                         "key" : "environment",
-                        "value" : "jx-staging"
+                        "value" : "staging"
                     },
                     {
                         "context" : "CONTEXTLESS",
-                        "key" : "app",
+                        "key" : "service",
                         "value" : "catalogue"
                     }
                 ]
